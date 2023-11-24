@@ -8,3 +8,17 @@ O conjunto de dados utilizado contém imagens de pulmões, classificadas entre "
 * Adler Nunes Cordeiro RM: 85158
 * Kelvin Marques Cordeiro RM: 84058
 * Gustavo de Sousa Santos RM: 86506
+
+
+## Dataset utilizado:
+
+*https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset*
+
+
+
+Instrução
+
+* 1º baixe o dataset no link
+* 2º inclua o dataset em uma pasta chamada 'Dataset'
+* 3º Rodar os codigos
+  
