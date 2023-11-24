@@ -5,4 +5,4 @@ Este projeto visa desenvolver uma Rede Neural Convolucional (CNN) para a classif
 Integrantes: 
 * Adler Nunes Cordeiro RM: 85158
 * Kelvin Marques Cordeiro RM: 84058
-* Gustavo
+* Gustavo de Sousa Santos RM: 86506
